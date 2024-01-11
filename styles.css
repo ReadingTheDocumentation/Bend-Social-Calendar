@@ -1,5 +1,12 @@
 
-
+.col-10 {
+    flex: 0 0 10%;
+    width: 10%;
+}
+.col-40 {
+    flex: 0 0 80%;
+    width: 80%;
+}
 
 
 body {

@@ -6,9 +6,14 @@
 .col-40 {
     flex: 0 0 80%;
     width: 80%;
-    
+
 }
 
+.col-450 {
+    flex: 0 0 50%;
+    width: 50%;
+
+}
 
 body {
     background-color: #8EC5FC;
@@ -16,6 +21,9 @@ body {
 
 .center-container {
     padding: 1.5em;
+
+
+
 }
 
 .navbar-brand {
